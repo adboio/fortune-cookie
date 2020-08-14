@@ -1,0 +1,25 @@
+body {
+  padding: 30px;
+  background-color: #fff1ad;
+}
+
+#logo {
+  width: 250px;
+}
+
+h1 {
+  font-family: 'Fredoka One';
+  color: #da981d;
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: black;
+}
+
+.btn-fortune {
+  background-color: #da981d;
+  font-family: 'Fredoka One';
+  border: 1.5px solid #000000;
+}
+
+h3 {
+  font-family: 'Fredoka One';
+}
